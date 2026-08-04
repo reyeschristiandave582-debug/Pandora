@@ -37,7 +37,7 @@ export default function CTAButton() {
             style={{ filter: 'none' }}
           />
 
-          <span className="text-[12px] sm:text-[14px] font-bold sm:font-black uppercase text-black tracking-[0.08em] flex items-center gap-1.5 sm:gap-2">
+          <span className="text-[12px] sm:text-[14px] font-bold sm:font-white uppercase text-white tracking-[0.08em] flex items-center gap-1.5 sm:gap-2">
             START REVIEW
           </span>
 
